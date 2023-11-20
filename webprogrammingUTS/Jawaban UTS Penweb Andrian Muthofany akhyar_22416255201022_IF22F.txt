@@ -1,0 +1,32 @@
+1. Sebuah framework dalam pengembangan aplikasi adalah kerangka kerja perangkat lunak yang menyediakan struktur dan alat bantu untuk memudahkan pengembangan perangkat lunak. Framework menyediakan fondasi kerja yang dapat digunakan oleh pengembang untuk membangun dan mengembangkan aplikasi dengan lebih cepat dan efisien.
+	 Bayangkan Anda ingin membangun rumah, tetapi Anda tidak ingin memulai dari nol. Anda memilih untuk menggunakan "kerangka kerja" (framework) yang sudah ada. Kerangka kerja ini menyediakan panduan dan alat untuk membangun rumah dengan lebih cepat dan efisien.
+Dalam hal ini:
+
+- Struktur dan Konvensi: Kerangka kerja memberi tahu Anda cara menyusun dan mengorganisasi bagian-bagian rumah Anda agar semuanya rapi dan mudah dimengerti.
+
+- Alat Bantu dan Fungsionalitas Bawaan: Kerangka kerja menyertakan alat-alat seperti mesin dan peralatan khusus yang membantu Anda melakukan pekerjaan dengan lebih mudah. Misalnya, ada alat bantu untuk membuat tembok atau langit-langit.
+
+- Pola Desain: Kerangka kerja memberi saran tentang cara terbaik untuk merancang ruangan dan bagian rumah. Misalnya, di mana sebaiknya letakkan kamar tidur dan ruang tamu.
+
+- MVC atau Arsitektur Serupa: Ini seperti menetapkan fungsi masing-masing ruangan. Satu ruangan mungkin digunakan untuk tidur (Model), satu ruangan untuk bersantai (View), dan satu ruangan untuk menyimpan barang-barang (Controller).
+
+- Komponen yang Dapat Digunakan Kembali: Kerangka kerja menyediakan bagian-bagian rumah yang sudah jadi, seperti pintu atau jendela. Ini membuat Anda tidak perlu membuat semuanya dari awal.
+
+- Dokumentasi dan Komunitas: Ada petunjuk langkah demi langkah tentang cara membangun rumah, dan jika Anda mengalami kesulitan, ada komunitas orang yang bisa membantu dan memberikan saran.
+
+Jadi, dalam pengembangan aplikasi, kerangka kerja adalah alat bantu yang membantu Anda membangun aplikasi dengan lebih cepat dan terorganisir. Anda dapat menggunakan ide dan alat dari kerangka kerja tersebut, sehingga tidak perlu memulai dari awal setiap kali membuat aplikasi baru.
+
+2. 1. sistem apotek 
+   2. Zeze zakaria ( Dokumentasi : angket, proposal, dokumen ) 
+      Andrian musthofany akhyar ( Programmer : Membuat website, UI/UX design, Ngoding) 
+      Sindi Putri Utami ( Backend : Membuat database, Query)
+   3. client belum memiliki sebuah website dan juga client tersebut untuk saat ini masih belum butuh dengan adanya sebuah website dalam bisnisnya sehingga dari tim kami merasa kesulitan dalam mengaplikasikan ke dalam project kami yaitu ingin membuat
+sebuah website untuk sebuah apotek.
+Di dalam point tersebut yang dia butuhkan adalah
+1. update stok otomatis Secara real-time
+2. Terintergrasi dengan pelaporan Kemenkes
+3. Dapat melakukan switching (rekomendasi obat yang sama berdasarkan kandungan)
+4. Terintergrasi langsung dengan beberapa telemedicine
+5. Sistem akuntansi masih menggunakan FiFO inginnya untuk stok obat Menggunakan Fefo dan untuk sistem akuntansi menggunakan averaging
+6. Didalam sistem resep, terdapat kontra indikasi atau peringatan alergi
+
